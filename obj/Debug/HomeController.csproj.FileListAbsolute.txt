@@ -1,0 +1,5 @@
+f:\websites\dnndev.me\desktopmodules\HomeController\obj\Debug\HomeController.csprojResolveAssemblyReference.cache
+f:\websites\dnndev.me\bin\HomeController.dll
+f:\websites\dnndev.me\bin\HomeController.pdb
+f:\websites\dnndev.me\desktopmodules\HomeController\obj\Debug\HomeController.dll
+f:\websites\dnndev.me\desktopmodules\HomeController\obj\Debug\HomeController.pdb
